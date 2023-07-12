@@ -1,7 +1,7 @@
 #  환경부 기후 대기 사업 재정 데이터 시각화
 ## **Collaborator : 장경준, 장동혁**
 
-### [원무 링크](https://dacon.io/competitions/official/235767/codeshare/3260?page=1&dtype=random)
+### [원문 링크](https://dacon.io/competitions/official/235767/codeshare/3260?page=1&dtype=random)
 
 ## ※목차
 
